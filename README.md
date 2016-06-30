@@ -8,3 +8,5 @@ What's uploaded here is the result of years of reworking the core parts of that 
 There are still probably some imperfections and I haven't updated it in a good while, but it's always been a fun little project for me to work on.
 
 There are 3 feature demos included in the package com.jboby93.jgl_test.
+
+For a demo of an actual game, check out a prototype used in a group project for a Game Design class I took in college called [Ninja Quest](https://github.com/jboby93/NinjaQuest/)
